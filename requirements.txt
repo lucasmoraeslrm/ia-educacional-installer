@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+PyPDF2
+python-docx
+beautifulsoup4
+ebooklib
+sentence-transformers
+faiss-cpu
+transformers
+torch
